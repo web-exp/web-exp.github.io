@@ -229,3 +229,7 @@ body {
   color: #ffffff;
   font-size: 20px;
   mix-blend-mode: difference; }
+
+embed {
+  width: 0;
+  height: 0; }
